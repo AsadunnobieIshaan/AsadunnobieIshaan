@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @AsadunnobieIshaan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Express
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 👨‍🏫 My mentor... [@TahsinAyman] (https://github.com/TahsinAyman)
+<!-- README.md -->
 
-<!---
-AsadunnobieIshaan/AsadunnobieIshaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👩‍💻 Asadunnobie Ishaan
+
+<div align="center">
+  ✉️ Email: asadunobieishaan@gmail.com <br>
+  
+  🔗 LinkedIn: [linkedin.com/in/asadunnobie-ishaan-998185253](https://www.linkedin.com/in/asadunnobie-ishaan-998185253/) 
+  
+</div>
+
+## 🚀 Summary
+
+Motivated and detail-oriented professional with a passion for Programming. Experienced in full stack development, devops and a tons of programming languages. Eager to contribute my skills and expertise to Collaborative Projects.
+
+## 🧑‍🏫 Mentor
+- [github.com/TahsinAyman](https://github.com/TahsinAyman)
+
+## 🧑‍🎓 Students
+- none
+
+## 🎓 Education
+
+- **Ideal School and College**
+  - 🎓 Degree: Class 7
+  - 📅 Graduation Date: 2023
+
+## 💼 Work Experience
+
+- none
+
+## 🚀 Projects
+
+
+## 💻 Skills
+
+- 💬 **Programming Languages:** Python, C, C++, Java, Node.JS, JavaScript, 
+- 🛠️ **Technologies:** MySQL,  MongoDB, Express, Spring Boot .
+- 👥 **Soft Skills:** Github Project Management, Team Collaboration, Discord.
+
+## 📜 Certifications
+
+-*coming soon*
+
+## 📞 References
+
+Available upon request.
