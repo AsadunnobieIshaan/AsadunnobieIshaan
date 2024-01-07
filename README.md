@@ -23,8 +23,8 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 ## 🎓 Education
 
 - **Ideal School and College**
-  - 🎓 Degree: Class 7
-  - 📅 Graduation Date: 2023
+  - 🎓 Degree: Class 8
+  - 📅 Graduation Date: 2024
 
 ## 💼 Work Experience
 
@@ -36,7 +36,7 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 ## 💻 Skills
 
 - 💬 **Programming Languages:** Python, C, C++, Java, Node.JS, JavaScript, 
-- 🛠️ **Technologies:** MySQL,  MongoDB, Express, Spring Boot .
+- 🛠️ **Technologies:** MySQL,  MongoDB, Express, Spring Boot, React.
 - 👥 **Soft Skills:** Github Project Management, Team Collaboration, Discord.
 
 ## 📜 Certifications
