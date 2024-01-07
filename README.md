@@ -15,6 +15,7 @@ Motivated and detail-oriented professional with a passion for Programming. Exper
 
 ## 🧑‍🏫 Mentor
 - [github.com/TahsinAyman](https://github.com/TahsinAyman)
+- [github.com/rashedkarim](https://github.com/rashedkarim)
 
 ## 🧑‍🎓 Students
 - none
