@@ -1,49 +1,48 @@
-# ‍ Asadunnobie Ishaan
+<!-- README.md -->
+
+# 👩‍💻 Asadunnobie Ishaan
 
 <div align="center">
-  ✉️ Email: asadunobieishaan@gmail.com <br>
-   LinkedIn: [linkedin.com/in/asadunnobie-ishaan-998185253](https://www.linkedin.com/in/asadunnobie-ishaan-998185253/)
+ ✉️ Email: asadunobieishaan@gmail.com <br>
+  
+ 🔗 LinkedIn: [linkedin.com/in/asadunnobie-ishaan-998185253](https://www.linkedin.com/in/asadunnobie-ishaan-998185253/) 
+  
 </div>
 
-##  About Me
+## 🚀 Summary
 
-I'm a passionate programmer with a keen eye for detail and a drive to learn. While I'm currently sharpening my skills in full-stack development and DevOps, I'm always eager to explore new technologies.  
+Motivated and detail-oriented professional with a passion for Programming. Experienced in full stack development, devops and a tons of programming languages. Eager to contribute my skills and expertise to Collaborative Projects.
 
-**Want to work together?** I thrive in collaborative environments and love contributing to open-source projects. Feel free to reach out! 
-
-## ‍ Mentors
-
+## 🧑‍🏫 Mentor
 - [github.com/TahsinAyman](https://github.com/TahsinAyman)
 - [github.com/rashedkarim](https://github.com/rashedkarim)
 
-## ‍ Students (Coming Soon!)
+## 🧑‍🎓 Students
+- none
 
-I'm excited to mentor aspiring programmers in the future!
-
-##  Education
+## 🎓 Education
 
 - **Ideal School and College**
-  -  Degree: Class 8
-  -  Graduation Date: 2024
+ - 🎓 Degree: Class 8
+ - 📅 Graduation Date: 2024
 
-##  Work Experience (Coming Soon!)
+## 💼 Work Experience
 
-Currently focused on honing my skills and building a strong portfolio. Stay tuned!
+- none
 
-##  Projects
+## 🚀 Projects
 
-This section will showcase my projects as I create them. Watch this space for exciting things to come!
 
-##  Skills
+## 💻 Skills
 
--  **Programming Languages:** Python, C, C++, Java, Node.JS, JavaScript
-- ️ **Technologies:** MySQL, MongoDB, Express, Spring Boot, React
--  **Soft Skills:** GitHub Project Management, Team Collaboration, Communication
+- 💬 **Programming Languages:** Python, C, C++, Java, Node.JS, JavaScript, 
+- 🛠️ **Technologies:** MySQL, MongoDB, Express, Spring Boot, React.
+- 👥 **Soft Skills:** Github Project Management, Team Collaboration, Discord.
 
-##  Certifications (Coming Soon!)
+## 📜 Certifications
 
-I'm actively seeking opportunities to enhance my knowledge through certifications.
+-*coming soon*
 
-##  References
+## 📞 References
 
 Available upon request.
